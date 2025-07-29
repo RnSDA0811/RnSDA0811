@@ -6,7 +6,7 @@ A strategic collaboration between <b>Synexcode</b> and <b>Al Rayyan Industry</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/rsdigitalalliance" target="_blank">
+  <a href="https://www.linkedin.com/company/rns-digital-alliance" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/rsdigitalalliance" target="_blank">
@@ -15,7 +15,7 @@ A strategic collaboration between <b>Synexcode</b> and <b>Al Rayyan Industry</b>
   <a href="https://www.facebook.com/rsdigitalalliance" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:info@rsdigitalalliance.com">
+  <a href="mailto: rnsdigitalalliance@gmail.com">
     <img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" />
   </a>
   <a href="tel:+447909348406">
