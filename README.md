@@ -46,8 +46,7 @@ Together, we offer **next-gen solutions** for today’s digital-first world.
 Let’s connect and build the future — one solution at a time.
 
 📱 Phone: +44 7909 348406  
-📧 Email: [info@rsdigitalalliance.com](mailto:info@rsdigitalalliance.com) *(optional if available)*  
-🌐 Website: [www.rsdigitalalliance.com](https://www.rsdigitalalliance.com) *(optional if available)*
+📧 Email: [rnsdigitalalliance@gmail.com](rnsdigitalalliance@gmail.com) *(optional if available)*  
 
 ---
 
