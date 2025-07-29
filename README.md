@@ -1,4 +1,4 @@
-<h1 align="center">✨ R&S Digital Alliance ✨</h1>
+<h1 align="center"> R&S Digital Alliance </h1>
 
 <p align="center">
 🚀 UK-Based Innovation-Driven Software House  
@@ -81,3 +81,9 @@ We specialize in crafting high-performance digital products that empower busines
 > 💡 Transforming ideas into digital success.  
 > 🔗 Partner with **R&S Digital Alliance** today.
 
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RnSDA0811&show_icons=true&theme=radical" />
+</p>
