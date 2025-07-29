@@ -41,18 +41,18 @@ Together, we offer **next-gen solutions** for today’s digital-first world.
 
 ---
 
+## 🏷️ Industry
+
+**IT Systems & Custom Software Development**
+
+---
+
 ## 📞 Contact Us
 
 Let’s connect and build the future — one solution at a time.
 
 📱 Phone: +44 7909 348406  
 📧 Email: [rnsdigitalalliance@gmail.com](rnsdigitalalliance@gmail.com) *(optional if available)*  
-
----
-
-## 🏷️ Industry
-
-**IT Systems & Custom Software Development**
 
 ---
 
